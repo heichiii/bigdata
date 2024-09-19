@@ -5,17 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48757158-2b83-4873-89eb-5e715138f6f0" name="更改" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/bigdata.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础/age.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础/sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python基础/t.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +43,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.age.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sort.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -62,7 +76,15 @@
       <workItem from="1725002708150" duration="983000" />
       <workItem from="1725003733183" duration="33000" />
       <workItem from="1725022555890" duration="61000" />
-      <workItem from="1725171442078" duration="450000" />
+      <workItem from="1725171442078" duration="1178000" />
+      <workItem from="1725177263132" duration="2121000" />
+      <workItem from="1725255100686" duration="839000" />
+      <workItem from="1725256129604" duration="2793000" />
+      <workItem from="1725271828912" duration="791000" />
+      <workItem from="1725272928527" duration="2513000" />
+      <workItem from="1725278252801" duration="51000" />
+      <workItem from="1726647341561" duration="3045000" />
+      <workItem from="1726730701656" duration="3019000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -72,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725171894858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <option name="closed" value="true" />
+      <created>1725171954054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725171954054</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +111,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bigdata$sort.coverage" NAME="sort 覆盖结果" MODIFIED="1726732176672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
+    <SUITE FILE_PATH="coverage/bigdata$age.coverage" NAME="age 覆盖结果" MODIFIED="1726733290241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python基础" />
   </component>
 </project>
